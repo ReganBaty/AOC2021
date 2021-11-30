@@ -1,4 +1,4 @@
 ﻿namespace AOC
 {
-    public record Results(int Day1, int Day2);
+    public record Results(int Part1, int Part2);
 }
